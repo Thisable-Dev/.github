@@ -1,4 +1,4 @@
-## Welcome to Thisable Page! 👋
+## Welcome to Thisable Page 👋
 
 ### Introducing Thisable!
 ![image](https://user-images.githubusercontent.com/76579538/173190863-c4ff471d-7218-4587-9cfe-8636b4e020c5.png)
