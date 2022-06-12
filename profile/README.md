@@ -17,5 +17,3 @@ The first all-in-one accessibility app in Indonesia for all types of disability.
 | M2011F1166 | Najma | Machine Learning | Universitas Padjadjaran |
 | C2306H2613 | Gilang Martadinata | Cloud Computing | Universitas Presiden |
 | C2297F2531 | Hazlan Muhammad Qodri | Cloud Computing | UPN Veteran Yogyakarta |
-
-### Meet the team! 
